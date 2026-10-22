@@ -20,3 +20,7 @@ Free in the browser: <https://noillirk.pro/>
 1. Go with the obvious answer, not the clever one.
 2. Short single-word answers match more often.
 3. Don't overthink - 15 seconds is short.
+
+
+## Other browser game projects I made
+- [PokéBonk Wiki (BonkDex)](https://pokebonk.info/) - my unofficial fan wiki for the PokéBonk browser survivor game: play in the browser, Pokédex, guides, tier list maker and type chart.
